@@ -17,6 +17,10 @@ https://www.1point3acres.com/bbs/
 润学：
 https://github.com/The-Run-Philosophy-Organization/run
 
+知乎问题（每年都有）：
+https://www.zhihu.com/question/379814619
+
+（知乎的搜索功能不好，可以用google搜关键词+site:zhihu.com/question/37981的方式实现在某个问题下搜索）
 
 github的markdown引擎和我本地的好像有点出入，排版看上去有点难受，暂且凑合着看吧。之后心血来潮就会维护。
 
