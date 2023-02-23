@@ -1,1 +1,2 @@
-# graduate-school-application-information
+# Graduate-school-application-information
+
