@@ -34,9 +34,6 @@ https://github.com/SurviveSJTU/SJTU-Application
 一亩三分地（信息很丰富但非常黑心的著名留学论坛）：
 https://www.1point3acres.com/bbs/
 
-润学：
-https://github.com/The-Run-Philosophy-Organization/run
-
 CS自学指南（所有课程均能找到四神校的上位替代课程）：
 https://csdiy.wiki/
 
