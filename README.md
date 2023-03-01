@@ -16,7 +16,7 @@ repo内容只针对CUHK本科生申请美研，其他学校同学请自行筛选
 
 ## Usage
 
-原始版本移步[这里](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer/blob/main/origin.md)。
+更详细更全面的分享正在建设中，原始版本请移步[这里](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer/blob/main/origin.md)。
 
 ## Table of Contents
 - 综述
