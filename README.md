@@ -1,8 +1,8 @@
-# CUHK 23Fall 美研工科申请记录
+# CUHKer 研究生申请总结 23Fall 
 
-[![License](https://img.shields.io/github/license/Hao-Starrr/graduate-school-application-information)](https://github.com/Hao-Starrr/graduate-school-application-information/LICENSE)
-[![Issues](https://img.shields.io/github/issues/Hao-Starrr/graduate-school-application-information)](https://github.com/Hao-Starrr/graduate-school-application-information/issues)
-[![Stars](https://img.shields.io/github/stars/Hao-Starrr/graduate-school-application-information)](https://github.com/Hao-Starrr/graduate-school-application-information)
+[![License](https://img.shields.io/github/license/Hao-Starrr/Graduate-Application-for-CUHKer)](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer/LICENSE)
+[![Issues](https://img.shields.io/github/issues/Hao-Starrr/Graduate-Application-for-CUHKer)](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer/issues)
+[![Stars](https://img.shields.io/github/stars/Hao-Starrr/Graduate-Application-for-CUHKer)](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer)
 
 
 本repo整理关于CUHK学生申请美国研究生过程中遇到的问题和经验分享。比起直接给出结论，我们更希望解释结论背后的逻辑，目的是让后来者们能从不同角度看待申请是怎么样一回事，打开黑匣子。了解学校选人原理之后，申请中的细节问题就显而易见了。  
@@ -16,7 +16,7 @@ repo内容只针对CUHK本科生申请美研，其他学校同学请自行筛选
 
 ## Usage
 
-原始版本移步[这里](https://github.com/Hao-Starrr/graduate-school-application-information/blob/main/origin.md)。
+原始版本移步[这里](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer/blob/main/origin.md)。
 
 ## Table of Contents
 - 综述
@@ -38,6 +38,6 @@ repo内容只针对CUHK本科生申请美研，其他学校同学请自行筛选
 
 ### Contributors
 
-<a href="https://github.com//Hao-Starrr/graduate-school-application-information/graphs/contributors"><img src="https://opencollective.com/graduate-school-application-information/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com//Hao-Starrr/Graduate-Application-for-CUHKer/graphs/contributors"><img src="https://opencollective.com/Graduate-Application-for-CUHKer/contributors.svg?width=890&button=false" /></a>
 
 
