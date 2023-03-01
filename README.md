@@ -16,7 +16,7 @@ repo内容只针对CUHK本科生申请美研，其他学校同学请自行筛选
 
 ## Usage
 
-原始版本移步[这里](https://github.com/Hao-Starrr/graduate-school-application-information/origin.md)。
+原始版本移步[这里](https://github.com/Hao-Starrr/graduate-school-application-information/blob/main/origin.md)。
 
 ## Table of Contents
 - 综述
