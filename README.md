@@ -34,9 +34,6 @@ https://github.com/SurviveSJTU/SJTU-Application
 一亩三分地（信息很丰富但非常黑心的著名留学论坛）：
 https://www.1point3acres.com/bbs/
 
-润学：
-https://github.com/The-Run-Philosophy-Organization/run
-
 CS自学指南（所有课程均能找到四神校的上位替代课程）：
 https://csdiy.wiki/
 
@@ -48,6 +45,9 @@ Medium（类似Twitter的论坛）：https://medium.com/
 *会有不少台湾学生分享经验。不需要记这个网站，搜索方式还是如上所述。谷歌是一切网站的门户*
 
 GradCafe（全球的申请结果分享）：https://www.thegradcafe.com/
+
+GradCafe数据（截止到19fall）：
+https://github.com/evansrjames/gradcafe-admissions-data
 
 其他申请者经验：
 
