@@ -1,41 +1,3 @@
-## Useful Links (updating)
-
-交大飞跃手册：
-https://github.com/SurviveSJTU/SJTU-Application
-
-一亩三分地（信息很丰富但非常黑心的著名留学论坛）：
-https://www.1point3acres.com/bbs/
-
-CS自学指南（所有课程均能找到四神校的上位替代课程）：
-https://csdiy.wiki/
-
-2022 Fall你都申请了哪些学校的MA/MS/PhD？申请结果如何？（知乎）：
-https://www.zhihu.com/question/379814619  
-*知乎的搜索功能不好，可以用google搜关键词+site:zhihu.com/question/379814619的方式实现在某个问题下搜索*
-
-Medium（类似Twitter的论坛）：https://medium.com/  
-*会有不少台湾学生分享经验。不需要记这个网站，搜索方式还是如上所述。谷歌是一切网站的门户*
-
-GradCafe（全球的申请结果分享）：https://www.thegradcafe.com/
-
-GradCafe数据（截止到19fall）：
-https://github.com/evansrjames/gradcafe-admissions-data
-*csv文件是用逗号分隔的值，可用excel或者文本文档打开*
-
-其他申请者经验：
-
-北美博士项目申请经验
-https://cosx.org/2022/10/tutorial-on-phd-application/#%E9%9D%A2%E8%AF%95  
-Robotics申请
-https://www.zhihu.com/collection/727374718
-
-
-
-## Contents
-
-[toc]
-（Github不支持这样生成目录，以后再研究）
-
 
 ## 1 原则和总述：
 
@@ -660,6 +622,4 @@ phd名义上所有学校都是委员会审理材料，只不过有的学校里�
 
 一亩三分地上很多自述。GRE过门槛就行。
 
-
-## Q & A
 
