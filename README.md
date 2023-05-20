@@ -29,7 +29,7 @@
 ！！！
 
 ## To-do-list
-随缘
+随缘戳一戳bio方向、DS方向的学长姐
 
 
 ## Maintainers
