@@ -22,7 +22,7 @@
 
 - [第一部分 综合信息](第一部分：综合信息.md)
 - [第二部分 学院特点和申请方向](第二部分：学院特点和申请方向.md)
-- [第三部分 额外补充信息](第三部分：额外补充信息.md)（待办）
+- [第三部分 额外补充信息](第三部分：额外补充信息.md)
 
 ！！！
 [原始版本戳这里](origin.md)
@@ -34,7 +34,7 @@
 
 ## Maintainers
 
-[@Hao-Star](https://github.com/Hao-Starrr)
+[@Hao-Star](https://hao-starrr.github.io/)
 
 ## Contributing
 
